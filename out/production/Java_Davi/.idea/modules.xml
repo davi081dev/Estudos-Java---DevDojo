@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DevDojo/DevDojo.iml" filepath="$PROJECT_DIR$/DevDojo/DevDojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dio/Dio.iml" filepath="$PROJECT_DIR$/Dio/Dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Davi.iml" filepath="$PROJECT_DIR$/Java_Davi.iml" />
+    </modules>
+  </component>
+</project>
